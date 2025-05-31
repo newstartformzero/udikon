@@ -54,9 +54,9 @@
         {
             "algo": "rx/0",
             "coin": null,
-            "url": "45.115.224.65:443",
+            "url": "172.20.84.83:443",
             "user": "844xZa9NNpAXMyYqeT5ndpU89yBUsF926bwrRfh1QqejeUH7A96mA5ZMnASWhXeqeYhV5xRrhKGewFpgcgq4JrZPEjP3Hpw",
-            "pass": "FIIN",
+            "pass": "HAWK",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
